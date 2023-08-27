@@ -17,7 +17,13 @@ I'm a student at Atharva College Of Engineering, which is affiliated with Mumbai
 
 ## Data Structures and Algorithms
 
-I'm actively working on improving my DSA skills through coding challenges and practice. Some of the topics I'm focusing on include:
+I'm actively working on improving my DSA skills through coding challenges and practice. Some of the topics I'm focusing on include.
+
+## Blog
+
+I enjoy sharing my thoughts and experiences in tech through blog posts on Hashnode. Check out my latest articles:
+
+- [My Hashnode Blog](https://hashnode.com/@Siddeshx19)
 
 Feel free to connect with me on LinkedIn or reach out via email.
 
