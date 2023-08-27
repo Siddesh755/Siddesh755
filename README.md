@@ -3,7 +3,6 @@
 👋 Hello! I'm Siddesh Navthale, a Student at Atharva College Of Engineering, Mumbai University. Currently I'm passionate about exploring different tech stacks and improving my Data Structures and Algorithms (DSA) skills.
 
 - 🔭 I’m currently working on various coding projects and improving my DSA skills.
-- 🌱 I’m currently learning [Technology/Framework/Tool you are currently learning].
 - 💬 Ask me about coding, tech stacks, or anything related to software development!
 
 ## About Me
